@@ -1,0 +1,43 @@
+{
+  "updatedAt": "2026-05-09T12:12:33.167Z",
+  "createdAt": "2026-05-09T12:07:29.267Z",
+  "id": "wuDccT3fRVn1Jukt",
+  "name": "Untitled-1778328448613",
+  "description": null,
+  "active": false,
+  "isArchived": false,
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false
+  },
+  "staticData": null,
+  "meta": null,
+  "pinData": null,
+  "versionId": "f825d7b6-8fb8-49ce-80d9-5e97168a09f2",
+  "activeVersionId": null,
+  "versionCounter": 2,
+  "triggerCount": 0,
+  "shared": [
+    {
+      "updatedAt": "2026-05-09T12:07:29.275Z",
+      "createdAt": "2026-05-09T12:07:29.275Z",
+      "role": "workflow:owner",
+      "workflowId": "wuDccT3fRVn1Jukt",
+      "projectId": "9LfmTuNpSTL2RsOz",
+      "project": {
+        "updatedAt": "2026-04-28T05:54:08.145Z",
+        "createdAt": "2026-04-28T05:51:16.121Z",
+        "id": "9LfmTuNpSTL2RsOz",
+        "name": "Aziz argringo97@gmail.com <argringo97@gmail.com>",
+        "type": "personal",
+        "icon": null,
+        "description": null,
+        "creatorId": "1c3fe948-b482-4543-9cc6-5b9a1b870649"
+      }
+    }
+  ],
+  "tags": [],
+  "activeVersion": null
+}
