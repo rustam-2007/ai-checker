@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "AI Checker",
+  "version": "0.1.0",
+  "description": "Check the current YouTube video with the AI Checker backend.",
+  "permissions": [],
+  "host_permissions": [
+    "http://localhost:3001/*",
+    "http://127.0.0.1:3001/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*", "https://youtube.com/*"],
+      "js": ["dist/content/youtube-content-script.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
